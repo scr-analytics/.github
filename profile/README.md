@@ -1,4 +1,5 @@
 ## Santa Cruz River Analytics
+![Logo](https://github.com/scr-analytics/images/blob/main/SCR%20Logo%20Neural.png "SCR Analytics")
 
 ** About us **
 
